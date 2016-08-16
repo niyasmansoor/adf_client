@@ -99,29 +99,6 @@ webapp/scripts : Folder which cotains jquery files for the ajax file upload
 
 Only xml files can be uploaded.
 The xml file should have the same format as the reference file in the attachment section.
-The values for the below criteria is as follows.		
-			
-Criteria
-Values
-Timeframe
-within 48 hours
-within 2 weeks
-with in 1 month
-none
-Purchase Type
-Finance
-Cash
-None
-Preferred Contact Type
-Phone
-email
-none
-Preffered Contact Time
-Day
-Afternoon
-None
- 
-If any tags of the test criteria is not found in the xml , a score of zero will be returned against that criteria.
 
 7. ATTACHMENTS
 
