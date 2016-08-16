@@ -6,7 +6,7 @@ Read Me – ADF Score Sheet Calculator
 
 		This is a java based application to do scoring for Automotive Leads . This application consist of 2 parts . A score calculator SOAP based  java web service server web module and a web based client which requests the web service to calculate lead score for an automotive client .
 
-	 The server module provides a java based web service which accepts an ADF format XML file which can be uploaded through the web service client module as an ajax upload . Server returns score object with scores against each ADF parameter / criteria as well as a cumulative total score which is converted to a HTML table and presented in the client page through an ajax based request – response method.
+	 The server module provides a java based web service which accepts an Auto-lead Data Format [ ADF ] format XML file which can be uploaded through the web service client module as an ajax upload . Server returns score object with scores against each ADF parameter / criteria as well as a cumulative total score which is converted to a HTML table and presented in the client page through an ajax based request – response method.
 
 2. SOFTWARE / HARDWARE REQUIREMENTS
 
