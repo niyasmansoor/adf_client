@@ -102,4 +102,4 @@ The xml file should have the same format as the reference file in the attachment
 
 7. ATTACHMENTS
 
-		The reference ADF format XML file is attached .
+		The reference ADF format XML file [sample.xml] is available as part of the git hub eclipse project .
